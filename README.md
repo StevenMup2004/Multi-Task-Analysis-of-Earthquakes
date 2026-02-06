@@ -20,7 +20,7 @@
 
 ## Project Overview
 
-This project presents a multi-task data science analysis of earthquake data.  
+This project shows a multi-task data science analysis of earthquake data.  
 The goal is to explore seismic characteristics and build predictive models for different earthquake-related tasks, including both regression and classification problems.
 
 The project follows a standard data science workflow, from data preprocessing and exploratory analysis to feature selection, modeling, and evaluation.
