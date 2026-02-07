@@ -6,18 +6,6 @@
 
 ---
 
-## Authors
-- Vu Hai Dang – 20225962  
-- Nguyen Minh Khoi – 20226050  
-- Le Dai Lam – 20225982  
-- Pham Thanh Nam – 20225989  
-- Bui Hoang Viet – 20226073  
-- Vu Thai Hung – 20226046  
-- Luan Quang Minh – 20225985  
-- Dinh Nguyen Son – 20225997  
-
----
-
 ## Project Overview
 
 This project shows a multi-task data science analysis of earthquake data.  
